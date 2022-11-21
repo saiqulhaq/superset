@@ -180,7 +180,7 @@
     "shortid": "^2.2.6",
     "urijs": "^1.19.6",
     "use-immer": "^0.4.2",
-    "use-query-params": "^1.1.9"
+    "use-query-params": "^2.1.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
